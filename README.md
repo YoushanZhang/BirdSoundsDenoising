@@ -1,6 +1,6 @@
 # BirdSoundsDenoising: Deep Visual Audio Denoising for Bird Sounds
 
-This directory contains the code for paper [BirdSoundsDenoising: Deep Visual Audio Denoising for Bird Sounds](http://openaccess.thecvf.com/), which is accepted by In 2023 IEEE Winter Applications of Computer Vision(WACV).
+This directory contains BirdSoundsDenoising dataset and the code for paper [BirdSoundsDenoising: Deep Visual Audio Denoising for Bird Sounds](http://openaccess.thecvf.com/), which is accepted by In 2023 IEEE Winter Applications of Computer Vision(WACV).
 
 
 If you have any questions, please email to youshan.zhang@yu.edu.
