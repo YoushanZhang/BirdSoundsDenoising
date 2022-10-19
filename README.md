@@ -12,7 +12,7 @@ If you find it is helpful, please cite it as:
 Zhang, Youshan, and Li, Jialu. (2023). BirdSoundsDenoising: Deep Visual Audio Denoising for Bird Sounds. In 2023 IEEE Winter Applications of Computer Vision (WACV).
 `
 
-
+### Datasets
 The BirdSoundsDenoising dataset is available at [this link](https://doi.org/10.5281/zenodo.7191406).
 
 In training and valid folders, the data structure is:
@@ -30,4 +30,13 @@ In training and valid folders, the data structure is:
 Raw_audios contain all noise bird sounds. Images are converted STFT noise bird sound images, and Masks are the labled clean sound areas. Denoised_audios are the denoised bird sound audios.
 
 
+<p align="center">
+  <img src="./files/Sta.png" width="50%"> 
+</p>
+
+### Results
+
+<p align="center">
+  <img src="./files/re.png" width="50%"> 
+</p>
 
