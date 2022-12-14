@@ -40,3 +40,11 @@ Raw_audios contain all noise bird sounds. Images are converted STFT noise bird s
   <img src="./files/re.png" width="50%"> 
 </p>
 
+
+
+### Codes
+
+audio2image.m: Matlab function of converting an audio to an image
+image2audio.m: Matlab function of converting a denoised image to a denoised audio 
+Audio2Image_Image2Audio_example.m: An example to show audio2image and image2audio functions.
+
