@@ -27,4 +27,5 @@ x = image2audio(s, mask,Fs,wind,olen,nfft);
 pause(5)
 % Play the denoised audio
 sound(x, Fs)
+% audiowrite('./Audio_example/XC41136_denoised.wav',x,Fs); 
 
